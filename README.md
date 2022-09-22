@@ -34,8 +34,8 @@ Github for code sharing and source. https://github.com/DianGigrich/code-refactor
 
 ## Usage
 
-![Updated Horiseon2](mockups/Horiseon.png)
-![Original Project](mockups/01-html-css-git-homework-demo.png)
+![Updated Horiseon2](assets/MockUps/Horiseon.png)
+![Original Project](assets/MockUps/01-html-css-git-homework-demo.png)
 
 ## Credits
 
